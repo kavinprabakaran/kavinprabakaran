@@ -36,7 +36,6 @@ Feel free to ask me about web development, coding best practices, or anything re
 Connect with me on LinkedIn
 Send me an email at kavinprabhakaran7@gmail.com
 😄 Pronouns
-----------------
 He/Him
 
 # ⚡ Fun fact
