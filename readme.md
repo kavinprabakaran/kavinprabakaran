@@ -34,7 +34,7 @@ Feel free to ask me about web development, coding best practices, or anything re
 # 📫 How to reach me
 ------------------------------
 Connect with me on LinkedIn
-Send me an email at pugazharasankct@gmail.com
+Send me an email at kavinprabhakaran7@gmail.com
 😄 Pronouns
 ----------------
 He/Him
