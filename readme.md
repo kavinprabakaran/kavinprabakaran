@@ -52,6 +52,6 @@ Netlify Hosting Notes
 HTML Notes
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 --------------------------------
 kavin prabakaran's GitHub Stats
