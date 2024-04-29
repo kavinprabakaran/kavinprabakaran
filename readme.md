@@ -1,26 +1,26 @@
 
-# Hey there! 👋 I'm Kavin prabakaran
-I'm a passionate Full Stack Developer and Mentor based in maduai. I love working with Java script and exploring new ways to solve problems.
+# Hey there! 👋 I am Kavin Prabakaran
+I am a passionate Full Stack Developer based in Maduai. I love working with Java script and exploring new ways to solve problems.
 
 # 🔧 Technologies & Tools
 ----------------------------------------------
-Languages: JavaScript, Python, C/C++
+Languages: JavaScript, Python, 
 Frameworks: React, Node.js
 Database: MongoDB, MySQL
 Tools: Git, VS Code
-Tools: Git, VS Code
 🌱 Currently Learning
+DataBase 
 I'm currently diving deeper into Docker and Kubernetes to enhance my deployment and scaling skills.
 
 # 🚀 About Me
 ---------------------
-I thrive in collaborative environments and enjoy turning complex problems into simple, elegant solutions. Currently, I'm working on projects that involve creating tools to make learning web development easier and developing web-based compilers. These compilers aim to help people practice problem-solving with minimal internet connection requirements (internet is only needed for the initial load).
+I thrive in collaborative environments and enjoy turning complex problems into simple, elegant solutions. Currently, I am working on projects that involve creating tools to make learning web development easier and developing web-based compilers. These compilers aim to help people practice problem-solving with minimal internet connection requirements (internet is only needed for the initial load).
 
 # 🔭 I’m currently working on
 -------------------------------
 Building tools to simplify the learning process for web development.
 Developing web-based compilers for practicing problem-solving with minimal internet usage.
-👯 I’m looking to collaborate on
+👯 I’m looking to work with team 
 I'm open to collaborating on projects related to web development, especially those involving React and Node.js.
 
 # 🤔 I’m looking for help with
@@ -34,7 +34,7 @@ Feel free to ask me about web development, coding best practices, or anything re
 # 📫 How to reach me
 ------------------------------
 Connect with me on LinkedIn
-Send me an email at kavinprabhakaran7@gmail.com
+Send me an email at kavinprabakaran7@gmail.com
 😄 Pronouns
 He/Him
 
